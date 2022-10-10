@@ -14,4 +14,4 @@ Zhxdev is organization that will provide an open source project or software as a
 
 ### Guide
 - [Contributing Guide](https://github.com/zhxdev/.github/profile/CONTRIBUTE.md)
-- [Code Of Conduct](https://github.com/zhxdev/.github/profile/CODE_OF_CONDUCT.md)
+- [Code Of Conduct](https://github.com/zhxdev/.github/blob/main/profile/CODE_OF_CONDUCT.md)
