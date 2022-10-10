@@ -13,5 +13,5 @@ Zhxdev is organization that will provide an open source project or software as a
 - Email : zhxdeveloper@gmail.com
 
 ### Guide
-- [Contributing Guide](https://github.com/zhxdev/.github/profile/CONTRIBUTE.md)
+- [Contributing Guide](https://github.com/zhxdev/.github/blob/main/profile/CONTRIBUTING.md)
 - [Code Of Conduct](https://github.com/zhxdev/.github/blob/main/profile/CODE_OF_CONDUCT.md)
