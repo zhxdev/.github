@@ -3,8 +3,8 @@
 Zhxdev is organization that will provide an open source project or software as a service for people. I'am very happy if you want to contribute to this organization project. Please see the contribute guide and code of conduct for more information.
 
 ## List Project
-- [ ] Freelancer Platform Zhaxwork (Development)
-- [ ] Library generator view for laravel (Development)
+- [ ] Photobooth application
+- [ ] Laravel currency generator package
 
 ### Members
 - [Ezha Syafaat](https://github.com/ezhasyafaat)
