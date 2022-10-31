@@ -6,6 +6,7 @@ Zhxdev is organization that will provide an open source project or software as a
 - [ ] Photobooth application
 - [ ] Laravel currency generator package
 - [ ] Sakucita application
+- [ ] ZDIGITAL application
 
 ### Members
 - [Ezha Syafaat](https://github.com/ezhasyafaat)
